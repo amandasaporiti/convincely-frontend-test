@@ -1,5 +1,5 @@
 <h1 align="center">
-  Convincely Senior FrontEnd Test
+  Convincely Senior Front-End Test
 </h1>
 
 <br>
